@@ -1,0 +1,275 @@
+ID,Group,Gender,Smoker,Day,Block,ACC,QI,Age,BMI,HR
+2,Control,Female,No,0,Day,9.27,0.9,40-45,18-21,57
+2,Control,Female,No,1,Night,9.52,0.93,40-45,18-21,49
+2,Control,Female,No,1,Day,9.19,0.91,40-45,18-21,59
+4,Control,Male,No,0,Day,10.07,0.98,30-35,24-27,76
+4,Control,Male,No,1,Night,9.88,0.99,30-35,24-27,68
+4,Control,Male,No,1,Day,9.87,0.98,30-35,24-27,69
+4,Control,Male,No,2,Night,9.73,0.99,30-35,24-27,62
+4,Control,Male,No,2,Day,9.89,0.97,30-35,24-27,62
+4,Control,Male,No,3,Night,9.83,0.95,30-35,24-27,53
+4,Control,Male,No,3,Day,9.92,0.94,30-35,24-27,67
+11,Control,Male,No,0,Day,9.74,0.92,50-55,24-27,62
+11,Control,Male,No,1,Night,9.71,0.92,50-55,24-27,43
+11,Control,Male,No,1,Day,9.64,0.96,50-55,24-27,63
+11,Control,Male,No,2,Night,9.29,0.91,50-55,24-27,47
+11,Control,Male,No,2,Day,9.75,0.92,50-55,24-27,55
+16,Control,Female,No,0,Day,9.86,0.93,55-60,21-24,77
+16,Control,Female,No,1,Night,9.59,0.97,55-60,21-24,64
+16,Control,Female,No,1,Day,9.76,0.93,55-60,21-24,73
+16,Control,Female,No,2,Night,9.36,0.95,55-60,21-24,62
+16,Control,Female,No,2,Day,9.19,0.92,55-60,21-24,64
+16,Control,Female,No,3,Night,9,0.94,55-60,21-24,57
+16,Control,Female,No,3,Day,9.54,0.93,55-60,21-24,69
+23,Control,Female,No,0,Day,9.68,0.94,20-25,18-21,78
+23,Control,Female,No,1,Night,9.24,0.96,20-25,18-21,62
+23,Control,Female,No,1,Day,9.72,0.94,20-25,18-21,78
+23,Control,Female,No,2,Night,9.23,0.97,20-25,18-21,63
+23,Control,Female,No,2,Day,9.43,0.94,20-25,18-21,69
+23,Control,Female,No,3,Night,9.15,0.95,20-25,18-21,63
+23,Control,Female,No,3,Day,9.66,0.95,20-25,18-21,76
+30,Control,Female,,0,Day,9.23,0.96,50-55,30-33,64
+30,Control,Female,,1,Night,9.4,0.95,50-55,30-33,57
+30,Control,Female,,1,Day,9.38,0.92,50-55,30-33,55
+30,Control,Female,,2,Night,9.33,0.92,50-55,30-33,49
+30,Control,Female,,2,Day,9.34,0.93,50-55,30-33,68
+30,Control,Female,,3,Night,9.53,0.95,50-55,30-33,57
+30,Control,Female,,3,Day,9.38,0.93,50-55,30-33,75
+37,Control,Female,No,0,Day,9.22,0.94,25-30,18-21,64
+37,Control,Female,No,1,Night,9.19,0.91,25-30,18-21,51
+37,Control,Female,No,1,Day,9.65,0.94,25-30,18-21,65
+37,Control,Female,No,2,Night,9.08,0.96,25-30,18-21,58
+37,Control,Female,No,2,Day,9.22,0.95,25-30,18-21,64
+37,Control,Female,No,3,Night,9,0.95,25-30,18-21,56
+37,Control,Female,No,3,Day,9.3,0.92,25-30,18-21,61
+44,Control,Male,,0,Day,8.96,0.98,40-45,30-33,78
+44,Control,Male,,1,Night,9.02,0.96,40-45,30-33,57
+44,Control,Male,,1,Day,8.74,0.97,40-45,30-33,76
+44,Control,Male,,2,Night,9.4,0.97,40-45,30-33,58
+44,Control,Male,,2,Day,9.14,0.97,40-45,30-33,69
+44,Control,Male,,3,Night,10.02,0.96,40-45,30-33,55
+44,Control,Male,,3,Day,8.95,0.96,40-45,30-33,78
+51,Control,Female,Former smoker,0,Day,9.93,0.94,45-50,21-24,66
+51,Control,Female,Former smoker,1,Night,9.84,0.94,45-50,21-24,59
+51,Control,Female,Former smoker,1,Day,9.85,0.93,45-50,21-24,68
+51,Control,Female,Former smoker,2,Night,9.81,0.95,45-50,21-24,58
+51,Control,Female,Former smoker,2,Day,9.92,0.95,45-50,21-24,70
+51,Control,Female,Former smoker,3,Night,9.72,0.96,45-50,21-24,63
+51,Control,Female,Former smoker,3,Day,9.96,0.92,45-50,21-24,74
+58,Control,Female,Yes,0,Day,9.38,0.98,20-25,24-27,73
+58,Control,Female,Yes,1,Night,8.79,0.96,20-25,24-27,58
+58,Control,Female,Yes,1,Day,9.26,0.97,20-25,24-27,70
+58,Control,Female,Yes,2,Night,8.71,0.94,20-25,24-27,54
+58,Control,Female,Yes,2,Day,9.88,0.95,20-25,24-27,68
+58,Control,Female,Yes,3,Night,8.93,0.96,20-25,24-27,62
+58,Control,Female,Yes,3,Day,9.41,0.97,20-25,24-27,65
+65,Control,Female,No,0,Day,9.34,0.94,25-30,18-21,76
+65,Control,Female,No,2,Day,9.73,0.96,25-30,18-21,65
+65,Control,Female,No,3,Night,9.59,0.88,25-30,18-21,45
+65,Control,Female,No,3,Day,9.7,0.97,25-30,18-21,71
+69,Control,Male,No,0,Day,9.98,0.03,40-45,18-21,74
+69,Control,Male,No,1,Night,9.61,0.01,40-45,18-21,57
+69,Control,Male,No,1,Day,10,0.11,40-45,18-21,73
+69,Control,Male,No,2,Night,9.47,0.01,40-45,18-21,61
+69,Control,Male,No,2,Day,9.87,0.04,40-45,18-21,66
+69,Control,Male,No,3,Night,9.49,0.06,40-45,18-21,60
+69,Control,Male,No,3,Day,9.8,0.02,40-45,18-21,67
+76,Control,Female,Yes,0,Day,9.27,0.98,45-50,24-27,65
+76,Control,Female,Yes,1,Night,9.08,0.94,45-50,24-27,52
+76,Control,Female,Yes,1,Day,9.42,0.96,45-50,24-27,62
+76,Control,Female,Yes,2,Night,9.18,0.93,45-50,24-27,51
+76,Control,Female,Yes,2,Day,9.27,0.96,45-50,24-27,62
+76,Control,Female,Yes,3,Night,9.06,0.98,45-50,24-27,61
+76,Control,Female,Yes,3,Day,9.36,0.96,45-50,24-27,61
+83,Control,Male,No,0,Day,9.56,0.95,45-50,27-30,59
+83,Control,Male,No,1,Night,8.99,0.93,45-50,27-30,49
+83,Control,Male,No,1,Day,9.58,0.94,45-50,27-30,59
+83,Control,Male,No,2,Night,9.5,0.93,45-50,27-30,50
+83,Control,Male,No,2,Day,9.99,0.96,45-50,27-30,68
+83,Control,Male,No,3,Night,9.52,0.94,45-50,27-30,52
+83,Control,Male,No,3,Day,9.85,0.95,45-50,27-30,67
+90,Control,Male,No,0,Day,9.24,0.86,25-30,21-24,61
+90,Control,Male,No,1,Day,8.92,0.9,25-30,21-24,56
+90,Control,Male,No,2,Night,9.1,0.95,25-30,21-24,54
+90,Control,Male,No,2,Day,8.98,0.94,25-30,21-24,64
+90,Control,Male,No,3,Night,9.04,0.94,25-30,21-24,57
+90,Control,Male,No,3,Day,9.19,0.93,25-30,21-24,75
+96,Control,Female,No,0,Day,10.05,0.92,35-40,21-24,78
+96,Control,Female,No,1,Night,9.77,0.95,35-40,21-24,56
+96,Control,Female,No,1,Day,9.87,0.93,35-40,21-24,73
+96,Control,Female,No,2,Night,9.72,0.99,35-40,21-24,65
+96,Control,Female,No,2,Day,9.9,0.94,35-40,21-24,72
+96,Control,Female,No,3,Night,9.8,0.99,35-40,21-24,67
+96,Control,Female,No,3,Day,9.8,0.94,35-40,21-24,69
+103,Control,Female,Former smoker,0,Day,9.38,0.91,45-50,21-24,60
+103,Control,Female,Former smoker,1,Night,9.19,0.87,45-50,21-24,52
+103,Control,Female,Former smoker,1,Day,9.36,0.93,45-50,21-24,60
+103,Control,Female,Former smoker,2,Night,9.26,0.93,45-50,21-24,52
+103,Control,Female,Former smoker,2,Day,9.4,0.93,45-50,21-24,60
+103,Control,Female,Former smoker,3,Night,9.26,0.93,45-50,21-24,52
+103,Control,Female,Former smoker,3,Day,9.53,0.92,45-50,21-24,62
+110,Control,Male,,0,Day,9.41,0.94,60-65,27-30,61
+110,Control,Male,,1,Night,9.45,0.87,60-65,27-30,46
+110,Control,Male,,1,Day,9.43,0.94,60-65,27-30,61
+110,Control,Male,,2,Night,9.55,0.89,60-65,27-30,47
+110,Control,Male,,2,Day,9.42,0.95,60-65,27-30,60
+110,Control,Male,,3,Night,9.25,0.89,60-65,27-30,45
+110,Control,Male,,3,Day,9.41,0.96,60-65,27-30,64
+117,Control,Male,,0,Day,9.98,0.94,55-60,21-24,57
+117,Control,Male,,1,Night,9.69,0.89,55-60,21-24,45
+117,Control,Male,,1,Day,9.99,0.92,55-60,21-24,55
+117,Control,Male,,2,Night,9.97,0.88,55-60,21-24,47
+117,Control,Male,,2,Day,10.01,0.91,55-60,21-24,53
+117,Control,Male,,3,Night,9.63,0.89,55-60,21-24,44
+117,Control,Male,,3,Day,9.94,0.91,55-60,21-24,56
+124,Control,Male,,1,Night,9.82,0.85,50-55,21-24,40
+124,Control,Male,,1,Day,9.1,0.91,50-55,21-24,53
+124,Control,Male,,2,Night,9.53,0.93,50-55,21-24,49
+127,Control,Male,No,0,Day,9.69,0.98,45-50,24-27,73
+127,Control,Male,No,1,Night,8.93,0.96,45-50,24-27,58
+127,Control,Male,No,1,Day,9.92,0.96,45-50,24-27,70
+127,Control,Male,No,2,Night,9.09,0.98,45-50,24-27,61
+127,Control,Male,No,2,Day,9.69,0.96,45-50,24-27,79
+127,Control,Male,No,3,Night,9,0.99,45-50,24-27,66
+127,Control,Male,No,3,Day,9.41,0.95,45-50,24-27,73
+127,Control,Male,No,4,Night,8.83,0.96,45-50,24-27,60
+127,Control,Male,No,4,Day,8.79,0.94,45-50,24-27,62
+136,Control,Female,No,0,Day,9.33,0.96,25-30,21-24,67
+136,Control,Female,No,1,Night,9.05,0.92,25-30,21-24,53
+136,Control,Female,No,1,Day,9.72,0.94,25-30,21-24,65
+136,Control,Female,No,2,Night,8.87,0.93,25-30,21-24,53
+136,Control,Female,No,2,Day,9.39,0.95,25-30,21-24,60
+136,Control,Female,No,3,Night,9.05,0.93,25-30,21-24,51
+136,Control,Female,No,3,Day,9.56,0.94,25-30,21-24,63
+143,Control,Male,,0,Day,9.19,0.9,50-55,27-30,57
+143,Control,Male,,1,Night,9.79,0.88,50-55,27-30,46
+143,Control,Male,,1,Day,9.27,0.94,50-55,27-30,60
+143,Control,Male,,2,Night,8.96,0.88,50-55,27-30,43
+143,Control,Male,,2,Day,9.42,0.92,50-55,27-30,62
+143,Control,Male,,3,Night,9.46,0.9,50-55,27-30,49
+143,Control,Male,,3,Day,10.04,0.93,50-55,27-30,61
+154,Patient,Female,No,0,Day,9.19,0.97,35-40,18-21,109
+154,Patient,Female,No,1,Night,9.16,0.98,35-40,18-21,103
+154,Patient,Female,No,1,Day,9.37,0.98,35-40,18-21,110
+154,Patient,Female,No,2,Night,9.27,0.97,35-40,18-21,118
+154,Patient,Female,No,2,Day,9.34,0.98,35-40,18-21,119
+154,Patient,Female,No,3,Night,9.32,0.99,35-40,18-21,107
+154,Patient,Female,No,3,Day,9.25,0.99,35-40,18-21,102
+154,Patient,Female,No,4,Night,9.25,0.98,35-40,18-21,85
+154,Patient,Female,No,4,Day,9.13,0.99,35-40,18-21,96
+170,Patient,Female,Former smoker,0,Day,9.38,0.99,25-30,30-33,92
+170,Patient,Female,Former smoker,1,Night,8.53,0.99,25-30,30-33,87
+170,Patient,Female,Former smoker,1,Day,9.39,0.99,25-30,30-33,98
+170,Patient,Female,Former smoker,2,Night,8.9,0.99,25-30,30-33,82
+170,Patient,Female,Former smoker,2,Day,9.23,0.99,25-30,30-33,80
+170,Patient,Female,Former smoker,3,Night,8.77,0.99,25-30,30-33,80
+170,Patient,Female,Former smoker,3,Day,9.35,0.98,25-30,30-33,86
+170,Patient,Female,Former smoker,4,Night,9.09,0.92,25-30,30-33,83
+185,Patient,Female,No,0,Day,9.58,0.93,65+,33-36,63
+185,Patient,Female,No,1,Night,9.13,0.92,65+,33-36,58
+185,Patient,Female,No,1,Day,9.3,0.91,65+,33-36,59
+185,Patient,Female,No,2,Night,9.47,0.95,65+,33-36,62
+185,Patient,Female,No,2,Day,9.57,0.93,65+,33-36,63
+185,Patient,Female,No,3,Night,9.13,0.92,65+,33-36,59
+185,Patient,Female,No,3,Day,9.54,0.92,65+,33-36,61
+206,Patient,Female,No,0,Day,8.83,0.94,45-50,30-33,81
+206,Patient,Female,No,1,Night,9.07,0.93,45-50,30-33,69
+206,Patient,Female,No,1,Day,8.86,0.94,45-50,30-33,79
+206,Patient,Female,No,2,Night,9.49,0.93,45-50,30-33,70
+206,Patient,Female,No,2,Day,8.67,0.91,45-50,30-33,82
+206,Patient,Female,No,3,Night,9,0.94,45-50,30-33,81
+206,Patient,Female,No,3,Day,8.91,0.94,45-50,30-33,78
+213,Patient,Female,No,0,Day,9.45,0.9,25-30,27-30,88
+213,Patient,Female,No,1,Night,8.64,0.98,25-30,27-30,74
+213,Patient,Female,No,1,Day,9.08,0.97,25-30,27-30,76
+213,Patient,Female,No,2,Night,8.85,0.98,25-30,27-30,89
+213,Patient,Female,No,2,Day,9,0.97,25-30,27-30,86
+213,Patient,Female,No,3,Night,9.44,0.98,25-30,27-30,85
+213,Patient,Female,No,3,Day,9.04,0.96,25-30,27-30,79
+213,Patient,Female,No,4,Night,8.83,0.97,25-30,27-30,75
+213,Patient,Female,No,4,Day,8.78,0.98,25-30,27-30,74
+213,Patient,Female,No,5,Night,9.1,0.94,25-30,27-30,74
+213,Patient,Female,No,5,Day,9.09,0.95,25-30,27-30,77
+231,Patient,Female,No,0,Day,9.54,0.93,40-45,27-30,77
+231,Patient,Female,No,1,Night,9.37,0.96,40-45,27-30,70
+231,Patient,Female,No,1,Day,9.46,0.95,40-45,27-30,76
+231,Patient,Female,No,2,Night,9.44,0.96,40-45,27-30,74
+231,Patient,Female,No,2,Day,9.4,0.95,40-45,27-30,76
+231,Patient,Female,No,3,Night,9.53,0.96,40-45,27-30,82
+231,Patient,Female,No,3,Day,9.44,0.96,40-45,27-30,75
+245,Patient,Female,No,0,Day,8.91,0.95,30-35,36+,88
+245,Patient,Female,No,1,Night,9.06,0.97,30-35,36+,81
+245,Patient,Female,No,1,Day,8.83,0.96,30-35,36+,86
+245,Patient,Female,No,2,Night,9.09,0.97,30-35,36+,73
+245,Patient,Female,No,2,Day,9.1,0.95,30-35,36+,79
+245,Patient,Female,No,3,Night,9.28,0.96,30-35,36+,68
+245,Patient,Female,No,3,Day,9.03,0.95,30-35,36+,78
+261,Patient,Female,No,0,Day,9.38,0.95,40-45,24-27,82
+261,Patient,Female,No,1,Night,9.44,0.95,40-45,24-27,71
+261,Patient,Female,No,1,Day,9.4,0.97,40-45,24-27,82
+261,Patient,Female,No,2,Night,9.56,0.98,40-45,24-27,76
+261,Patient,Female,No,2,Day,9.45,0.96,40-45,24-27,85
+261,Patient,Female,No,3,Night,9.55,0.98,40-45,24-27,76
+261,Patient,Female,No,3,Day,9.4,0.96,40-45,24-27,85
+275,Patient,Female,,0,Day,8.77,0.94,45-50,33-36,78
+275,Patient,Female,,1,Night,8.73,0.98,45-50,33-36,77
+275,Patient,Female,,1,Day,8.74,0.96,45-50,33-36,76
+275,Patient,Female,,2,Night,8.93,0.99,45-50,33-36,69
+275,Patient,Female,,2,Day,8.61,0.95,45-50,33-36,68
+275,Patient,Female,,3,Night,8.74,0.99,45-50,33-36,68
+275,Patient,Female,,3,Day,8.77,0.95,45-50,33-36,68
+289,Patient,Male,Yes,0,Day,9.17,0.95,50-55,33-36,90
+289,Patient,Male,Yes,1,Night,9.11,0.93,50-55,33-36,85
+289,Patient,Male,Yes,1,Day,9.29,0.97,50-55,33-36,100
+289,Patient,Male,Yes,2,Night,9.06,0.96,50-55,33-36,90
+289,Patient,Male,Yes,2,Day,9.39,0.97,50-55,33-36,90
+289,Patient,Male,Yes,3,Night,9.22,0.98,50-55,33-36,86
+289,Patient,Male,Yes,3,Day,9.29,0.98,50-55,33-36,88
+302,Patient,Male,No,3,Night,8.73,0.93,25-30,21-24,64
+302,Patient,Male,No,3,Day,8.67,0.89,25-30,21-24,52
+307,Patient,Female,No,0,Day,9.1,0.97,55-60,30-33,70
+307,Patient,Female,No,1,Night,9.71,0.97,55-60,30-33,67
+307,Patient,Female,No,1,Day,9.25,0.97,55-60,30-33,70
+307,Patient,Female,No,2,Night,9.61,0.95,55-60,30-33,69
+307,Patient,Female,No,2,Day,9.6,0.96,55-60,30-33,68
+319,Patient,Male,Former smoker,0,Day,9.35,0.99,55-60,30-33,90
+319,Patient,Male,Former smoker,1,Night,9.34,0.99,55-60,30-33,82
+319,Patient,Male,Former smoker,1,Day,9.42,0.99,55-60,30-33,91
+319,Patient,Male,Former smoker,2,Night,9.32,0.98,55-60,30-33,91
+319,Patient,Male,Former smoker,2,Day,9.31,0.98,55-60,30-33,88
+319,Patient,Male,Former smoker,3,Night,9.33,0.98,55-60,30-33,75
+319,Patient,Male,Former smoker,3,Day,9.37,0.98,55-60,30-33,93
+319,Patient,Male,Former smoker,4,Night,9.33,0.98,55-60,30-33,85
+319,Patient,Male,Former smoker,4,Day,9.29,0.98,55-60,30-33,78
+337,Patient,Female,No,1,Night,9.35,0.98,40-45,24-27,67
+337,Patient,Female,No,2,Night,9.39,0.99,40-45,24-27,70
+337,Patient,Female,No,2,Day,9.56,0.93,40-45,24-27,75
+337,Patient,Female,No,3,Night,9.28,0.99,40-45,24-27,68
+337,Patient,Female,No,3,Day,9.81,0.96,40-45,24-27,67
+342,Patient,Male,Former smoker,1,Night,9.54,0.89,55-60,27-30,53
+342,Patient,Male,Former smoker,2,Night,9.67,0.91,55-60,27-30,53
+342,Patient,Male,Former smoker,4,Night,9.01,0.86,55-60,27-30,46
+353,Patient,Male,Yes,0,Day,9.25,0.99,45-50,24-27,98
+353,Patient,Male,Yes,1,Night,9.32,0.99,45-50,24-27,88
+353,Patient,Male,Yes,1,Day,9.54,0.98,45-50,24-27,92
+353,Patient,Male,Yes,2,Night,9.34,0.98,45-50,24-27,79
+353,Patient,Male,Yes,2,Day,9.42,0.97,45-50,24-27,86
+353,Patient,Male,Yes,3,Night,9.19,0.98,45-50,24-27,82
+353,Patient,Male,Yes,3,Day,9.44,0.96,45-50,24-27,97
+360,Patient,Male,Yes,0,Day,9.53,0.97,35-40,24-27,95
+360,Patient,Male,Yes,1,Night,9.12,0.99,35-40,24-27,80
+360,Patient,Male,Yes,1,Day,9.5,0.96,35-40,24-27,88
+360,Patient,Male,Yes,2,Night,9.24,0.99,35-40,24-27,82
+360,Patient,Male,Yes,2,Day,9.24,0.96,35-40,24-27,80
+372,Patient,Male,Former smoker,0,Day,9.4,0.95,60-65,24-27,77
+372,Patient,Male,Former smoker,1,Night,9.28,0.98,60-65,24-27,70
+372,Patient,Male,Former smoker,1,Day,9.39,0.96,60-65,24-27,76
+372,Patient,Male,Former smoker,2,Night,9.3,0.94,60-65,24-27,68
+372,Patient,Male,Former smoker,2,Day,9.36,0.95,60-65,24-27,71
+372,Patient,Male,Former smoker,3,Night,9.33,0.96,60-65,24-27,67
+372,Patient,Male,Former smoker,3,Day,9.3,0.95,60-65,24-27,75
+386,Patient,Female,No,0,Day,9.26,0.97,55-60,33-36,80
+386,Patient,Female,No,1,Night,9.28,0.98,55-60,33-36,73
+386,Patient,Female,No,1,Day,9.28,0.98,55-60,33-36,80
+396,Patient,Female,Former smoker,1,Night,8.5,0.92,25-30,24-27,63
+396,Patient,Female,Former smoker,1,Day,8.6,0.92,25-30,24-27,65
